@@ -1,0 +1,2 @@
+Linux is an open-source kernel.
+The Linux shell is powerful.

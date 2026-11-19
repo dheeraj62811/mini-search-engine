@@ -1,0 +1,1 @@
+Linux kernel modules and shell scripts work together in Linux.

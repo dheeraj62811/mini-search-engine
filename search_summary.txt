@@ -1,0 +1,295 @@
+==================================================
+            MINI SEARCH ENGINE SUMMARY            
+==================================================
+Directory : /mnt/c
+Mode      : AND
+Keywords  : hello
+Files Hit : 57
+Date      : Thu Nov 19 20:08:02 UTC 2026
+==================================================
+
+Rank #1 | Matches: 16 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.python-2026.10.0-win32-x64/python_files/lib/jedilsp/importlib_metadata/_text.py
+Sample Lines:
+  Line 12:    >>> s = FoldedCase('hello world')
+  Line 14:    >>> s == 'Hello World'
+  Line 17:    >>> 'Hello World' == s
+
+Rank #2 | Matches: 16 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.python-2026.10.0-win32-x64/python_files/lib/python/importlib_metadata/_text.py
+Sample Lines:
+  Line 12:    >>> s = FoldedCase('hello world')
+  Line 14:    >>> s == 'Hello World'
+  Line 17:    >>> 'Hello World' == s
+
+Rank #3 | Matches: 16 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/importlib/metadata/_text.py
+Sample Lines:
+  Line 12:    >>> s = FoldedCase('hello world')
+  Line 14:    >>> s == 'Hello World'
+  Line 17:    >>> 'Hello World' == s
+
+Rank #4 | Matches: 12 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/textwrap.py
+Sample Lines:
+  Line 70:    #   "Hello there -- you goof-ball, use the -b option!"
+  Line 72:    #   Hello/ /there/ /--/ /you/ /goof-/ball,/ /use/ /the/ /-b/ /option!
+  Line 99:    #   "Hello there -- you goof-ball, use the -b option!"
+
+Rank #5 | Matches: 5 | File: /mnt/c/ProgramData/Lenovo/Vantage/Addins/SmartScenarioAddin/1.2.3.76/configs/Scenario/wordninja_words.txt
+Sample Lines:
+  Line 2667:hello
+  Line 26664:othello
+  Line 28931:barrichello
+
+Rank #6 | Matches: 5 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/ssl.py
+Sample Lines:
+  Line 233:    HELLO_REQUEST = 0
+  Line 234:    CLIENT_HELLO = 1
+  Line 235:    SERVER_HELLO = 2
+
+Rank #7 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.codex/.tmp/bundled-marketplaces/openai-bundled/plugins/latex/tests/test_compile_latex_strategy.py
+Sample Lines:
+  Line 62:                "\\documentclass{article}\n\\begin{document}\nHello.\n\\end{document}\n",
+  Line 181:                "\\documentclass{article}\n\\begin{document}\nHello.\n\\end{document}\n",
+  Line 206:                "\\documentclass{article}\n\\begin{document}\nHello.\n\\end{document}\n",
+
+Rank #8 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/_pydev_runfiles/pydev_runfiles_nose.py
+Sample Lines:
+  Line 76:                # ('D:\\workspaces\\temp\\test_workspace\\pytesting1\\src\\mod1\\hello.py', 'mod1.hello', 'TestCase.testMet1')
+  Line 79:                #    E.g.: ['D:\\src\\mod1\\hello.py', 'TestCase.testMet1']
+  Line 187:    # addr is something as D:\pytesting1\src\mod1\hello.py:TestCase.testMet4
+
+Rank #9 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/vendored/bytecode/tests/test_cfg.py
+Sample Lines:
+  Line 100:        code = disassemble(source, filename="hello.py", function=True)
+  Line 102:        self.assertEqual(code.filename, "hello.py")
+  Line 533:        bytecode.filename = "hello.py"
+
+Rank #10 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/_test_attach_to_process_linux.py
+Sample Lines:
+  Line 8:// call dlsym($1, "hello")
+  Line 9:// call hello()
+  Line 18:// call dlsym($1, "hello")
+
+Rank #11 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/winappdbg/search.py
+Sample Lines:
+  Line 378:        "68 65 6c 6c 6f 20 77 6f 72 6c 64"  # "hello world"
+  Line 382:        "68656C6C6F20776F726C64"            # "hello world"
+  Line 405:            "68 65 6c 6c 6f 20 77 6f 72 6c 64"  # "hello world"
+
+Rank #12 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.python-2026.10.0-win32-x64/python_files/lib/jedilsp/parso/__init__.py
+Sample Lines:
+  Line 16:>>> module = parso.parse('hello + 1', version="3.9")
+  Line 19:PythonNode(arith_expr, [<Name: hello@1,0>, <Operator: +>, <Number: 1>])
+  Line 21:hello + 1
+
+Rank #13 | Matches: 4 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/pydoc_data/topics.py
+Sample Lines:
+  Line 9215:      >>> 'hello'.isidentifier(), iskeyword('hello')
+  Line 9603:      >>> 'Hello world'.title()
+  Line 9604:      'Hello World'
+
+Rank #14 | Matches: 3 | File: /mnt/c/Users/Dheeraj/.codex/.tmp/bundled-marketplaces/openai-bundled/plugins/browser/docs/accessibility.md
+Sample Lines:
+  Line 33:await tab.ax.typeText(null, "hello");
+  Line 34:await tab.ax.paste(42, "hello");
+  Line 37:await tab.ax.selectText(42, "hello");
+
+Rank #15 | Matches: 3 | File: /mnt/c/Users/Dheeraj/.codex/.tmp/bundled-marketplaces/openai-bundled/plugins/chrome/docs/accessibility.md
+Sample Lines:
+  Line 33:await tab.ax.typeText(null, "hello");
+  Line 34:await tab.ax.paste(42, "hello");
+  Line 37:await tab.ax.selectText(42, "hello");
+
+Rank #16 | Matches: 3 | File: /mnt/c/Users/Dheeraj/.codex/plugins/cache/openai-bundled/browser/26.1111.21308/docs/accessibility.md
+Sample Lines:
+  Line 33:await tab.ax.typeText(null, "hello");
+  Line 34:await tab.ax.paste(42, "hello");
+  Line 37:await tab.ax.selectText(42, "hello");
+
+Rank #17 | Matches: 3 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/NOTICE.txt
+Sample Lines:
+  Line 18673:Copyright (c) 2018 Made With MOXY Lda <hello@moxy.studio>
+  Line 21790:Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
+  Line 21794:Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
+
+Rank #18 | Matches: 3 | File: /mnt/c/msys64/usr/share/makepkg/source/bzr.sh
+Sample Lines:
+  Line 114:	local netfile=$1 integ=$2 ret=0 shellopts dir url fragment fragval sum
+  Line 117:	shellopts=$(shopt -p -o pipefail)
+  Line 134:	eval "$shellopts"
+
+Rank #19 | Matches: 3 | File: /mnt/c/msys64/usr/share/makepkg/source/git.sh
+Sample Lines:
+  Line 140:	local netfile=$1 integ=$2 ret=0 shellopts dir url fragment sum
+  Line 143:	shellopts=$(shopt -p -o pipefail)
+  Line 161:	eval "$shellopts"
+
+Rank #20 | Matches: 3 | File: /mnt/c/msys64/usr/share/makepkg/source/hg.sh
+Sample Lines:
+  Line 116:	local netfile=$1 integ=$2 ret=0 shellopts dir url fragment fragval sum
+  Line 119:	shellopts=$(shopt -p -o pipefail)
+  Line 137:	eval "$shellopts"
+
+Rank #21 | Matches: 2 | File: /mnt/c/ProgramData/Lenovo/Vantage/Addins/LenovoMachineFixUserAddin/1.0.10.608/ThirdPartyNotices.txt
+Sample Lines:
+  Line 7285:Authors: kunhello@outlook.com
+  Line 8130:Authors: lsimon@commoner.com, lrobinson2011@gmail.com, hank@vercel.com, belen@vercel.com, samko9522@gmail.com, chris@leishman.org, nazareno@basement.studio, shu@chibicode.com, g.cobben@gmail.com, jared@palmer.net, jan.krems@gmail.com, prateek89born@gmail.com, josefrancisco.verdu@gmail.com, gbmonaco@google.com, houssein.djirdeh@gmail.com, jason@developit.ca, shubhie@gmail.com, npm@keanulee.com, atcastle@gmail.com, janicklasralph036@gmail.com, skllcrn@zeit.co, pvco.coursey@gmail.com, guybedford@gmail.com, ragojosefrancisco@gmail.com, williamli@bbi.io, mail@msweeneydev.com, allenhai03@gmail.com, rabautse@gmail.com, luisito453@gmail.com, mrfix84@gmail.com, jj@jjsweb.site, franco@basement.studio, iyatomi@gmail.com, timer150@gmail.com, ana.trajkovska2015@gmail.com, paulogdemitri@gmail.com, artzbitz@gmail.com, mark.glagola@gmail.com, luc.leray@gmail.com, team@zeit.co, steven@ceriously.com, juancampa@gmail.com, mail@connordav.is, ds303077135@gmail.com, joecohenr@gmail.com, thecodetheory@gmail.com, matheus.frndes@gmail.com, igor@klopov.com, mindrun@icloud.com, naoyuki.kanezawa@gmail.com, nathan@tootallnate.net, rauchg@gmail.com, tim@timneutkens.nl, javier.velasco86@gmail.com, hello@evilrabb.it
+
+Rank #22 | Matches: 2 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/_pydev_bundle/pydev_console_utils.py
+Sample Lines:
+  Line 599:    def hello(self, input_str):
+  Line 601:        return ("Hello eclipse",)
+
+Rank #23 | Matches: 2 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/vendored/bytecode/tests/test_concrete.py
+Sample Lines:
+  Line 1078:                Instr("LOAD_CONST", "hello", lineno=1),
+  Line 1092:        self.assertListEqual(code.consts, ["hello"])
+
+Rank #24 | Matches: 2 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/winappdbg/process.py
+Sample Lines:
+  Line 1477:            "68 65 6c 6c 6f 20 77 6f 72 6c 64"  # "hello world"
+  Line 1481:            "68656C6C6F20776F726C64"            # "hello world"
+
+Rank #25 | Matches: 2 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/asyncio/format_helpers.py
+Sample Lines:
+  Line 33:    Special case for a single parameter: ('hello',) is formatted as ('hello').
+
+Rank #26 | Matches: 2 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-python-envs-1.40.0-win32-x64/ThirdPartyNotices.txt
+Sample Lines:
+  Line 3318:Copyright (c) 2018 Made With MOXY Lda <hello@moxy.studio>
+  Line 4800:Copyright (c) 2017 Made With MOXY Lda <hello@moxy.studio>
+
+Rank #27 | Matches: 2 | File: /mnt/c/Users/Dheeraj/OneDrive/Documents/Hacktoberfest26-HackDay-Submissions/submissions/ciphera/app.py
+Sample Lines:
+  Line 33:        text_content = f"""Hello {mentor_name},
+  Line 54:                    Hello <strong style="color: #fff;">{mentor_name}</strong>, a fellow student has locked credits to learn from you.
+
+Rank #28 | Matches: 2 | File: /mnt/c/Users/Dheeraj/OneDrive/Documents/Lab10.c/1.c
+Sample Lines:
+  Line 19:    strcpy(data.strValue, "Hello");
+  Line 30:    strcpy(sharedData.strValue, "Hello");
+
+Rank #29 | Matches: 2 | File: /mnt/c/Users/Dheeraj/OneDrive/Documents/skill_barter/app.py
+Sample Lines:
+  Line 33:        text_content = f"""Hello {mentor_name},
+  Line 54:                    Hello <strong style="color: #fff;">{mentor_name}</strong>, a fellow student has locked credits to learn from you.
+
+Rank #30 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_package/dotfiles.sh
+Sample Lines:
+  Line 33:	local shellopts=$(shopt -p nullglob)
+  Line 42:	eval "$shellopts"
+
+Rank #31 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/checkdepends.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+  Line 53:	eval "$shellopts"
+
+Rank #32 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/conflicts.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+  Line 53:	eval "$shellopts"
+
+Rank #33 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/depends.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+  Line 56:	eval "$shellopts"
+
+Rank #34 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/makedepends.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+  Line 53:	eval "$shellopts"
+
+Rank #35 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/provides.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+  Line 58:	eval "$shellopts"
+
+Rank #36 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/srcinfo.sh
+Sample Lines:
+  Line 44:	local shellopts=$(shopt -p extglob)
+  Line 52:	eval "$shellopts"
+
+Rank #37 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/util/pkgbuild.sh
+Sample Lines:
+  Line 88:	local shellopts=$(shopt -p extglob)
+  Line 100:	eval "$shellopts"
+
+Rank #38 | Matches: 2 | File: /mnt/c/msys64/usr/share/makepkg/util/util.sh
+Sample Lines:
+  Line 105:	local shellopts=$(shopt -p extglob)
+  Line 113:	eval "$shellopts"
+
+Rank #39 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.codex/skills/.system/skill-creator/scripts/init_skill.py
+Sample Lines:
+  Line 76:- Frontend builder: hello-world/ directory with HTML/React boilerplate
+
+Rank #40 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/agent-plugins/vscode-synced-customization-agent-host-copilotcli-1287046778/1607015734/skills/troubleshoot/SKILL.md
+Sample Lines:
+  Line 67:{"ts":1773200231010,"dur":3001,"sid":"62f52dec","type":"llm_request","name":"chat:gpt-4o","spanId":"000000000000000c","parentSpanId":"0000000000000003","status":"ok","attrs":{"model":"gpt-4o","inputTokens":15025,"outputTokens":126,"ttft":1987,"maxTokens":32000,"systemPromptFile":"system_prompt_0.json","userRequest":"echo hello","inputMessages":"[{...}]"}}
+
+Rank #41 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/agent-plugins/vscode-synced-customization-agent-host-copilotcli-1287046778/165997831/skills/troubleshoot/SKILL.md
+Sample Lines:
+  Line 67:{"ts":1773200231010,"dur":3001,"sid":"62f52dec","type":"llm_request","name":"chat:gpt-4o","spanId":"000000000000000c","parentSpanId":"0000000000000003","status":"ok","attrs":{"model":"gpt-4o","inputTokens":15025,"outputTokens":126,"ttft":1987,"maxTokens":32000,"systemPromptFile":"system_prompt_0.json","userRequest":"echo hello","inputMessages":"[{...}]"}}
+
+Rank #42 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/formulahendry.code-runner-0.12.2/README.md
+Sample Lines:
+  Line 126:    "code-runner.customCommand": "echo Hello"
+
+Rank #43 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/_pydev_runfiles/pydev_runfiles_pytest2.py
+Sample Lines:
+  Line 276:    @param filename: 'D:\\src\\mod1\\hello.py'
+
+Rank #44 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/libs/debugpy/_vendored/pydevd/pydevconsole.py
+Sample Lines:
+  Line 390:        server.register_function(interpreter.hello)
+
+Rank #45 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/__hello__.py
+Sample Lines:
+  Line 13:    print("Hello world!")
+
+Rank #46 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/__phello__/__init__.py
+Sample Lines:
+  Line 4:    print("Hello world!")
+
+Rank #47 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/__phello__/spam.py
+Sample Lines:
+  Line 4:    print("Hello world!")
+
+Rank #48 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/asyncio/runners.py
+Sample Lines:
+  Line 185:            print('hello')
+
+Rank #49 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/difflib.py
+Sample Lines:
+  Line 1055:    >>> IS_LINE_JUNK('hello\n')
+
+Rank #50 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/email/charset.py
+Sample Lines:
+  Line 26:# In "=?charset?q?hello_world?=", the =?, ?q?, and ?= add up to 7
+
+Rank #51 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/email/header.py
+Sample Lines:
+  Line 34:# Match encoded-word strings in the form =?charset?q?Hello_World?=
+
+Rank #52 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/email/quoprimime.py
+Sample Lines:
+  Line 296:    quoted-printable (like =?iso-8859-1?q?Hello_World?=) -- please use
+
+Rank #53 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/gettext.py
+Sample Lines:
+  Line 651:#    print _('Hello World')
+
+Rank #54 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/modulefinder.py
+Sample Lines:
+  Line 636:        script = "hello.py"
+
+Rank #55 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/plistlib.py
+Sample Lines:
+  Line 33:            anotherString = "<hello & hi there!>",
+
+Rank #56 | Matches: 1 | File: /mnt/c/Users/Dheeraj/.vscode/extensions/ms-python.vscode-pylance-2026.4.1/dist/wasi/python-3.13.5/lib/python3.13/wsgiref/simple_server.py
+Sample Lines:
+  Line 137:    print("Hello world!", file=stdout)
+
+Rank #57 | Matches: 1 | File: /mnt/c/msys64/usr/share/makepkg/lint_pkgbuild/optdepends.sh
+Sample Lines:
+  Line 41:	local shellopts=$(shopt -p extglob)
+
