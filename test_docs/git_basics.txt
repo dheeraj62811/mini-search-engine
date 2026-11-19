@@ -1,0 +1,3 @@
+Git tracks changes in source code during software development.
+Use git add, git commit, and git push to upload files to GitHub.
+A good README file explains how to run your shell script.

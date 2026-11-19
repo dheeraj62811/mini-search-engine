@@ -1,0 +1,3 @@
+TCP/IP is the core protocol suite of the internet.
+Linux servers commonly use SSH for secure remote shell access.
+Firewalls filter incoming and outgoing network packets.

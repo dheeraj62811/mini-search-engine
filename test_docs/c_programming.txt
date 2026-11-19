@@ -1,0 +1,3 @@
+C programming is widely used for system software and the Linux kernel.
+Pointers allow direct memory management in C.
+Use gcc to compile C source files into executable binaries.

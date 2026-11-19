@@ -1,0 +1,4 @@
+The grep command searches text using regular expressions.
+Awk is a powerful text processing tool for counting and formatting data.
+Sed is a stream editor used for text substitution and highlighting.
+Combining grep, awk, and sed in a shell script builds fast CLI tools.

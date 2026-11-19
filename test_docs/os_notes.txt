@@ -1,0 +1,3 @@
+Operating systems manage hardware and software resources.
+The Linux kernel handles process scheduling, memory management, and file systems.
+Deadlocks occur when processes wait indefinitely for resources.
